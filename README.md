@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trung Thieu Quang </h1>
 <h3 align="center">Computer Science Student at Darmstadt University of Applied Science - hda</h3>
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, Python, Angular - Date Engineering**
+- 🌱 I’m currently learning **NodeJS, ReactJS, Python, Angular - Data Engineering/Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/quantanhoi?tab=repositories](https://github.com/quantanhoi?tab=repositories)
 
