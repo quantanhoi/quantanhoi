@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Trung Thieu Quang </h1>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Trung+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">Computer Science Student at Darmstadt University of Applied Science - hda</h3>
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, Python, Angular - Data Engineering/Cloud Computing**
