@@ -33,7 +33,7 @@
 <h2 align="left"> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tools </h2>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,py,r,mysql,postgres,mongodb,flask,git,nodejs,dotnet,aws,azure,docker,html,css,react,angular">
+        <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,py,r,mysql,postgres,mongodb,flask,git,nodejs,dotnet,aws,gcp,docker,html,css,react,angular,raspberrypi,postman">
     </a>
 </div>
 <br>
